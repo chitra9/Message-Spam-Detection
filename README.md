@@ -53,3 +53,7 @@ Before training, labels are converted:
 git clone https://github.com/your-username/Message-Spam-Detection.git
 
 cd Message-Spam-Detection
+
+#If it doesn't open use npviewer:
+
+https://nbviewer.org/github/chitra9/Message-Spam-Detection/blob/main/Message_Spam_Detection.ipynb
